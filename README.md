@@ -5,11 +5,8 @@ Hacking is not a crime - It's an art of Awareness.
 ## Supported OS:
 XP, Vista, 7, 8, 8.1, 10 - 32 bit and 64 bit
 
-### Developed in C/C++
-High Reliability
-Easy to Use
-Encrypted Communication
-https://streamable.com/lryi8m
+### DEMO VIDEO 
+
 
 ## Features
 Native, independent stub
@@ -91,4 +88,8 @@ This will prevent Windows Defender from scanning your WARZONE Client.
 # Donation
 Donation : stripe 
 
-# Screenshot
+
+# File download
+# github  server
+# download Website
+
